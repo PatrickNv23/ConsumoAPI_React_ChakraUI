@@ -6,3 +6,8 @@
     padding-top: 20px;
     font-weight: bold;
 }
+
+.div_textFooter {
+    display: flex;
+    flex-direction: column;
+}
